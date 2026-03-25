@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+
+ultralytics==8.2.0
+torch
+torchvision
+
+opencv-python
+pillow
+numpy
+
+matplotlib
+pyyaml
+tqdm
+requests
+scipy
