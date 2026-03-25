@@ -1,11 +1,11 @@
-fastapi==0.110.0
-uvicorn==0.29.0
-python-multipart==0.0.9
+fastapi
+uvicorn
+python-multipart
 
-ultralytics==8.2.0
+ultralytics
 
-torch==2.0.1
-torchvision==0.15.2
+torch
+torchvision
 
 opencv-python-headless
 pillow
