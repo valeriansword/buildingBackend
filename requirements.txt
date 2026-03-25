@@ -7,7 +7,7 @@ ultralytics==8.2.0
 torch==2.0.1
 torchvision==0.15.2
 
-opencv-python
+opencv-python-headless
 pillow
 numpy
 
